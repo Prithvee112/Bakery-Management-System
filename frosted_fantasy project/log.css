@@ -1,0 +1,24 @@
+body{
+    background:url("purple.jpg");   
+    background-repeat: no-repeat;
+    background-size: cover;  
+      
+   }
+   div{
+       text-align: center;
+       padding: 10px;
+   }
+   .border{
+       height: 250px;
+     width: 500px;
+     color: #fff;
+     background-color: rgba(156, 139, 139,10%);
+     position: absolute;
+     top:15%;
+     left: 35%;
+     border-radius: 20px;
+   }
+   h1,#link{
+       color: black;
+   }
+   
